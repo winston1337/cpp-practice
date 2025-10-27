@@ -143,7 +143,7 @@ public:
             // Check for winner
             if (checkWinner()) {
                 displayBoard();
-                cout << "🎉 Player " << currentPlayer << " wins! 🎉\n";
+                cout << "Player " << currentPlayer << " wins!\n";
                 break;
             }
             
