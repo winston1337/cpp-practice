@@ -22,7 +22,7 @@ std::vector<int> twoSum(std::vector<int>& nums, int target) {
 
 int main() {
     std::vector<int> nums = {6, 12, 2, 7};
-    int target = 9;
+    int target = 13;
 
     std::vector<int> result = twoSum(nums, target);
 
